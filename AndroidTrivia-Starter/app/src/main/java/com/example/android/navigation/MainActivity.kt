@@ -37,4 +37,5 @@ class MainActivity : AppCompatActivity() {
     // TODO (03) Use DataBindingUtil.inflate to inflate and return the titleFragment in onCreateView
     // In our new TitleFragment
     // R.layout.fragment_title
+
 }
