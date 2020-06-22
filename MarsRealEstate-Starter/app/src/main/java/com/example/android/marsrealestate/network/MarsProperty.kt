@@ -21,7 +21,7 @@ import com.squareup.moshi.Json
 
 class MarsProperty(
         val id: String,
-        @Json(name = "img_src") val img_src: String,
+        @Json(name = "img_src") val imgSrc: String,
         val type: String,
         val price: Double
 )
